@@ -1,6 +1,9 @@
 # User Leaderboard System
 
+
 ## Overview
+** [Watch video about this project!](https://www.youtube.com/watch?v=xpnoOPOQEnM&ab_channel=yosefplishtiv) **
+
 
 A scalable leaderboard system for a gaming company, built with Node.js, TypeScript, PostgreSQL, and Redis.  
 Supports efficient leaderboard queries, user rankings, and score updates for millions of users.
